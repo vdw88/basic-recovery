@@ -94,7 +94,7 @@ Root privileges are required for raw disk access and SMART operations.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/vdw88/basic-recovery)
 cd <repository-directory>
 ```
 
